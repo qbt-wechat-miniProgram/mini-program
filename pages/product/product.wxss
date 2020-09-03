@@ -4,6 +4,7 @@
   background-color:#F9F9F9
 }
 .detail-header-box,.detail-bottom-box{
+  width: 100%;
   background-color: #fff;
 }
 .detail-topic-img{
@@ -165,6 +166,7 @@
 /*商品详情*/
 .detail-bottom-box{
   margin-top: 30rpx;
+  width: 100%;
 }
 .tabs-box{
   height: 90rpx;

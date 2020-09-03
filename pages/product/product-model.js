@@ -15,6 +15,5 @@ class Product extends Base {
     };
     this.request(params);
   }
-
 }
 export {Product}
